@@ -1,2 +1,2 @@
 # DS-Projects
-My Data Science projects in Yandex
+My data science projects in Yandex.Practicum
