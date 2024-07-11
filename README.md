@@ -1,2 +1,2 @@
 # DS-Projects
-My data science projects in Yandex.Practicum
+## Проекты по Data Science в Яндекс.Практикум
